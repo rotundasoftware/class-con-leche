@@ -1,5 +1,6 @@
 A simple backbone inspired, coffee compatible class object for node.js and the browser.
 
+```javascript
 Class = require( 'class-con-leche' );
 
 Walrus = Class.extend( {
@@ -15,3 +16,4 @@ AngryWalrus = Class.extend( {
 		console.log( 'Get lost!' );
 	}
 } );
+```
