@@ -1,0 +1,17 @@
+{
+  "name": "class-con-leche",
+  "version": "0.0.0",
+  "description": "A simple backbone inspired, coffee compatible class object for node.js and the browser.",
+  "main": "class.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "class",
+    "backbone",
+    "coffee",
+    "simple"
+  ],
+  "author": "Rotunda Software",
+  "license": "MIT"
+}
