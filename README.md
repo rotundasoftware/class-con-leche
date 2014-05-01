@@ -25,3 +25,7 @@ AngryWalrus = Class.extend( {
 	}
 } );
 ```
+
+## License
+
+MIT
