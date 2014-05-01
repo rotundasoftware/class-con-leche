@@ -2,7 +2,7 @@
  * class-con-leche, v0.0.0
  * Copyright (c)2014 Rotunda Software, LLC.
  * Distributed under MIT license
- * http://github.com/rotundasoftware/backbone.handle
+ * http://github.com/rotundasoftware/class-con-leche
  */
 
 (function (root, factory) {

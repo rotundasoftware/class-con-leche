@@ -8,7 +8,7 @@ Class = require( 'class-con-leche' );
 
 Walrus = Class.extend( {
 	initialize : function() {
-		// called when class instance is created
+		// initialize is called when class instance is created
 		console.log( 'I am a baby walrus' );
 	},
 
