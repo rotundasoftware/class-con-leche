@@ -1,6 +1,7 @@
 A simple backbone inspired, coffee compatible class object for node.js and the browser.
 
-Commonjs only - use [browserify](https://github.com/substack/node-browserify) or [cartero](https://github.com/rotundasoftware/cartero)) for the browse
+* No bs, just the basics.
+* Compatible with CommonJS, AMD, and browser global style modules.
 
 ```javascript
 Class = require( 'class-con-leche' );
