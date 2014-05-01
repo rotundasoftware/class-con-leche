@@ -1,6 +1,6 @@
 A simple backbone inspired, coffee compatible class object for node.js and the browser.
 
-* No bs, just the basics.
+* No bs, and no dependencies. Just the basics.
 * Compatible with CommonJS, AMD, and browser global style modules.
 
 ```javascript
