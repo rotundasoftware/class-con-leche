@@ -17,7 +17,7 @@ Walrus = Class.extend( {
 	}
 } );
 
-AngryWalrus = Class.extend( {
+AngryWalrus = Walrus.extend( {
 	helloWorld : function() {
 		Walrus.prototype.myFunction(); // call super.. no syntactical sugar here.
 
